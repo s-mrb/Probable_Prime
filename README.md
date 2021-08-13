@@ -2,9 +2,9 @@ The code is verified upto 10000 digit prime, and gives result within 132 seconds
 
 This Probable Primality Test Implementation is far faster than below implementation:
 
-- University of Sandiego CParker Cal (http://home.sandiego.edu/~cparker/old_classes/math370_sp18/powermod.html )
-- PlanetCalc (https://planetcalc.com/8979/)
-- University of Tennessee PRIME CURIOUS Project's Online Prime Test (https://primes.utm.edu/curios/includes/primetest.php)
+- [University of Sandiego CParker Cal](http://home.sandiego.edu/~cparker/old_classes/math370_sp18/powermod.html )
+- [PlanetCalc](https://planetcalc.com/8979/)
+- [University of Tennessee PRIME CURIOUS Project's Online Prime Test](https://primes.utm.edu/curios/includes/primetest.php)
 
 
 ## Comparison with Sandiego University Implementation
