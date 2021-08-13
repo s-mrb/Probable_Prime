@@ -9,7 +9,8 @@ This Probable Primality Test Implementation is far faster than below implementat
 
 ## Comparison with Sandiego University Implementation
 
-for base = exponent = n = x ; where x is 864 digit long and repetitions of 123456789
+Let `base = exponent = n = x`  
+where x is 864 digit long and just repetitions of 123456789
 
 ```js
 x = 
