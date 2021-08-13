@@ -28,7 +28,7 @@ x =
 
 ```
 Time taken by Uni of Sandiego Code = 0.446 seconds
-Time taken by This Code              = 0.005 seconds
+Time taken by This Code            = 0.005 seconds
 ```
 
 
@@ -62,5 +62,5 @@ y =
 
 ```
 Time taken by Uni of Sandiego Code = 3.68 seconds
-Time taken by This Code              = 0.007 - 0.01 seconds
+Time taken by This Code            = 0.007 - 0.01 seconds
 ```
