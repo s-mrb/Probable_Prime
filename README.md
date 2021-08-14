@@ -1,6 +1,6 @@
 The code is verified upto 10000 digit prime, and gives result within 132 seconds for 10000 digit prime
 
-This Probable Primality Test Implementation is far faster and/or handle bigger numbers than below implementation:
+This Probable Prime Test Implementation is far faster and/or handle bigger numbers than below implementation:
 
 - [University of Sandiego CParker Cal](http://home.sandiego.edu/~cparker/old_classes/math370_sp18/powermod.html )
 - [University of Tennessee PRIME CURIOUS Project's Online Prime Test](https://primes.utm.edu/curios/includes/primetest.php)
